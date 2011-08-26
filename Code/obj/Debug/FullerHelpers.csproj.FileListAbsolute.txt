@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\bin\Debug\FullerHelpers.dll
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\bin\Debug\FullerHelpers.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\obj\Debug\FullerHelpers.dll
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\obj\Debug\FullerHelpers.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\FullerHelpers\FullerHelpers\bin\Debug\AutoMapper.dll
+C:\Users\Gabriel\FullerHelpers\Code\bin\Debug\FullerHelpers.dll
+C:\Users\Gabriel\FullerHelpers\Code\bin\Debug\FullerHelpers.pdb
+C:\Users\Gabriel\FullerHelpers\Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\FullerHelpers\Code\obj\Debug\FullerHelpers.dll
+C:\Users\Gabriel\FullerHelpers\Code\obj\Debug\FullerHelpers.pdb
